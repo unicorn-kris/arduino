@@ -17,8 +17,8 @@ void setup() {
   pinMode(3, OUTPUT);
   }
 
-  const long interval1 = 100000;  // interval at which to blink (milliseconds)
-  const long interval2 = 200000;  // interval at which to blink (milliseconds)
+  const long interval1 = 100;  // interval at which to blink (milliseconds)
+  const long interval2 = 2000;  // interval at which to blink (milliseconds)
   const long interval3 = 400000;  // interval at which to blink (milliseconds)
   const long interval4 = 800000;  // interval at which to blink (milliseconds)
   const long interval5 = 50000;  // interval at which to blink (milliseconds)
